@@ -4,7 +4,6 @@
 ./Commons/*
 ./Plugins/*
 *.txt
-*.msi
 ./docker-compose.yml
 ./Dist/src/*
 ./README.md
