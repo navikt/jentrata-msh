@@ -32,7 +32,7 @@
         <camel.version>2.24.2</camel.version>
         <spring.version>4.3.20.RELEASE</spring.version>
         <activemq.version>5.15.10</activemq.version>
-		<slfj4.version>1.7.25</slfj4.version>
+		<slfj4.version>1.7.36</slfj4.version>
 	</properties>
 
 	<modules>
